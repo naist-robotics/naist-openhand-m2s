@@ -7,5 +7,7 @@ See the demo video [here](https://youtu.be/vZjTQ-7LhDY).
 ![](render.jpg)
 
 Refer to the [Finger Fabrication Guide](https://www.eng.yale.edu/grablab/openhand/model%20m2/Fabrication%20-%20Model%20M2%201.0.pdf) of the Yale Openhand M2 for details on the assembly.
+
 This hand is driven by wire. We used fishing line made of Dyneema.　Refer to the [manual(p.15)](https://www.eng.yale.edu/grablab/openhand/model%20m2/Fabrication%20-%20Model%20M2%201.0.pdf) for the position of the wire.
-The base uses Dynamixel MX-28AT motors. A controller case that can be attached to the base is included in the STL files.
+
+The base uses Dynamixel MX-28AT motors or HiTEC HS5585 servo motors. An Arduino controller case that can be attached to the base is included in the STL files.
